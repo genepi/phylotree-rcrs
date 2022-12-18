@@ -1,13 +1,28 @@
 id: phylotree-rcrs-15.0
 name: PhyloTree 15 (rCRS)
 description: mtDNA tree Build 15 including 3,925 haplogroups
-url: https://github.com/genepi/phylotree-rcrs
+url: https://github.com/genepi/haplogrep3/data/trees/phylotree/15
 lastUpdate: 2012/09/30
 tree: tree.xml
 weights: weights.txt
 fasta: rcrs.fasta
 gff: rcrs.gff
 aacTable: rcrs.aac.txt
+alignmentRules: rules.csv
+hotspots:
+  - "315.1C"
+  - "309.1C"
+  - "309.1CC"
+  - "523d"
+  - "524d"
+  - "524.1AC"
+  - "524.1ACAC"
+  - "3107d"
+  - "16182C"
+  - "16183C"
+  - "16193.1C"
+  - "16193.1CC"
+  - "16519C"
 genes:
  - "TRNF"
  - "RNR1"
