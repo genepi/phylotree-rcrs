@@ -1,6 +1,6 @@
 id: phylotree-rcrs
 version: 15.0
-name: PhyloTree 15 (rCRS)
+name: PhyloTree 15
 category: rCRS (Human mtDNA)
 description: mtDNA tree Build 15 including 3,925 haplogroups
 url: https://github.com/genepi/haplogrep3/data/trees/phylotree/15
